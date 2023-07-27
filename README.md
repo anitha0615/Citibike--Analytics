@@ -14,3 +14,4 @@
 
   Data Cleaning & Visualisation
   Before doing any visualisation, Python and Pandas library was used to clean the data. In Jupyter notebook, the  monthly data files were concatenated into one.
+![image](https://github.com/anitha0615/Citibike--Analytics/assets/125384475/1bec911a-e229-4e5d-b71e-7b4607e2b4c1)
