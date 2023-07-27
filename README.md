@@ -7,6 +7,7 @@
 
   Resources:
   https://www.citibikenyc.com/system-data
+  https://public.tableau.com/app/profile/anitha.pandian
 
   Data Cleaning & Visualisation
   Before doing any visualisation, Python and Pandas library was used to clean the data. In Jupyter notebook, the  monthly data files were concatenated into one.
